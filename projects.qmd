@@ -1,0 +1,10 @@
+---
+title: "Projects"
+description: "Independent product analytics and data science work."
+---
+
+This is where I document reproducible product analytics and data science investigations: the question, data, methods, results, limitations and implications.
+
+*Project case studies will appear here once their analysis and code are ready to share.*
+
+In the meantime, you can find my public repositories on [GitHub](https://github.com/ohaydav).
