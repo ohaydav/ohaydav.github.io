@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "David Ohayon"
+  site-url: https://ohaydav.github.io
+  description: "Writing and projects in product analytics, data science, and consumer technology."
+  navbar:
+    background: light
+    pinned: true
+    title: "David Ohayon"
+    left:
+      - text: Writing
+        href: writing.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Résumé
+        href: resume.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/ohaydav
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ohaydav/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© David Ohayon"
+    right:
+      - text: GitHub
+        href: https://github.com/ohaydav
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/ohaydav/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+    mainfont: "Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+
+execute:
+  freeze: auto
