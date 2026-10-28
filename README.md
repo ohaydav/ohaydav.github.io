@@ -1,25 +1,23 @@
-# David Ohayon — personal website
+# David Ohayon — Personal website
 
-Source for [ohaydav.github.io](https://ohaydav.github.io), built with [Quarto](https://quarto.org/) and hosted on GitHub Pages.
+A [Quarto](https://quarto.org/) website for writing, product analytics and data science projects, résumé and background.
 
-This site brings together independent writing, Product Analytics / Data Science projects, and a concise professional résumé.
+**Website:** https://ohaydav.github.io (once GitHub Pages is enabled)
 
-## Working locally
+## Edit content
 
-Install Quarto, then run:
+- `index.qmd` — Home
+- `writing.qmd` — Writing
+- `projects.qmd` — Projects
+- `resume.qmd` — Résumé
+- `about.qmd` — About
+- `styles.css` — Appearance
+- `_quarto.yml` — Site navigation and settings
 
-```sh
-quarto preview
-```
+## Publishing
 
-To build the site locally:
+GitHub Actions renders the site on each push to `main`. Under **Settings → Pages**, set **Build and deployment → Source: GitHub Actions**.
 
-```sh
-quarto render
-```
+To preview locally after installing Quarto, run `quarto preview`.
 
-A GitHub Actions workflow builds and deploys the site from `main` to GitHub Pages. In repository **Settings → Pages**, set **Build and deployment → Source: GitHub Actions**.
-
-## Editorial policy
-
-Only publish projects and essays that exist; do not list planned projects as completed work. Reproducible work belongs in its own repository and should be linked from the Projects page.
+Only publish portfolio work when it is ready to share, with reproducible code and clear limitations.
