@@ -1,0 +1,45 @@
+---
+title: "Home"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.landing}
+::: {.eyebrow}
+PRODUCT ANALYTICS · DATA SCIENCE · CONSUMER TECHNOLOGY
+:::
+
+# Understanding people, products and technology.
+
+I work at the intersection of consumer technology, analytics and product decisions. This is a home for independent writing, practical research and the questions that keep me curious.
+
+::: {.landing-links}
+[Explore writing](writing.qmd){.link-strong} &nbsp; [View projects](projects.qmd) &nbsp; [About me](about.qmd)
+:::
+:::
+
+::: {.home-sections}
+::: {.home-section}
+## Writing
+
+Notes and essays on statistics, experimentation, technology and society.
+
+[Read the writing page →](writing.qmd)
+:::
+
+::: {.home-section}
+## Projects
+
+Reproducible analysis and product-focused investigations, documented with methods and limitations.
+
+[Explore projects →](projects.qmd)
+:::
+
+::: {.home-section}
+## Background
+
+Six years at TikTok, earlier experience at Dailymotion, and an ongoing focus on Product Analytics and Data Science.
+
+[View résumé →](resume.qmd)
+:::
+:::
