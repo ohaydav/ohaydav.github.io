@@ -1,0 +1,52 @@
+---
+title: "Résumé"
+description: "Professional background in consumer technology and analytics."
+---
+
+**Product Analytics & Data Science · Consumer Technology**
+
+My background spans consumer technology, product analytics and growth, including six years at TikTok and earlier work at Dailymotion.
+
+## Experience
+
+### Professional development
+*March 2026 – present*
+
+Deepening and applying my skills in mathematics, statistics, experimentation and machine learning, with a focus on Product Data Science.
+
+### TikTok
+*March 2020 – March 2026 · London*
+
+**Senior Content Strategy Manager, EMEA** · November 2022 – March 2026
+
+Led strategy and analytics across EMEA and global initiatives, combining behavioural analysis, experimentation and performance measurement to inform product decisions. Worked across creator growth, content discovery and monetisation, partnering with Product, Data Science and Finance to improve engagement, conversion and investment efficiency.
+
+**Content Programming Manager, EU** · November 2021 – November 2022
+
+Scaled European content and product initiatives, partnering with Product and Data Science to improve content classification, measurement frameworks and launch evaluation. Translated performance insights into operational improvements and cross-market decisions.
+
+**Content Strategist, France** · March 2020 – November 2021
+
+Helped establish TikTok's French content ecosystem and LIVE offering, using audience and creator insights to shape product adoption, engagement and monetisation strategies subsequently extended across Europe.
+
+### Yunizon
+**Co-Founder** · May 2016 – December 2019
+
+Co-founded and scaled an independent music label, combining streaming analytics, artist development and commercial partnerships to drive growth. Built a catalogue exceeding 500 million streams before its acquisition.
+
+### Dailymotion
+**Trade Marketing Assistant (Apprenticeship)** · October 2017 – June 2019
+
+Analysed audience and advertising performance across 35 international markets, using research, SQL, Python and Tableau to inform product positioning, evaluate new advertising formats and support commercial decisions.
+
+## Education and training
+
+- Data Science Professional executive programme — Imperial College Business School
+- Product Management certificate — BrainStation
+- Master's in Digital Strategy & Innovation — Sup de Web
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ohaydav/) · [GitHub](https://github.com/ohaydav)
+
+*For a PDF résumé or further details, please contact me through LinkedIn.*
