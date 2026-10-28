@@ -1,0 +1,10 @@
+---
+title: "Writing"
+description: "Independent essays about data science, technology, and society."
+---
+
+I write about what data can tell us, what it cannot, and the ways technology shapes everyday life.
+
+My interests include statistics, experimentation, consumer products, computer science and society.
+
+*Essays will appear here as they are published.*
