@@ -1,0 +1,14 @@
+---
+title: "About"
+description: "About David Ohayon."
+---
+
+Why do people watch, create, return—or pay?
+
+It's a question that has shaped my career in consumer technology and continues to drive my interest in Product Analytics and Data Science.
+
+I'm particularly curious about what user behaviour reveals, what metrics conceal, and how experimentation can help us understand what genuinely makes products better.
+
+Outside professional work, I write about data science, technology and society. I have a longer-term interest in computer science.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/ohaydav/) or explore my work on [GitHub](https://github.com/ohaydav).
